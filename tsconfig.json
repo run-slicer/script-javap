@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "esnext",
+        "target": "es2020",
+        "baseUrl": ".",
+        "moduleResolution": "node",
+        "outDir": "./dist"
+    },
+    "include": ["src/**/*", "rollup.config.ts"]
+}
